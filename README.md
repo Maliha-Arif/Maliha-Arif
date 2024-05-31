@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Maliha-Arif
-- 👀 I’m interested in emerging technologies and programming.
-- 🌱 I’m currently learning & expanding my skills.
-Let's connect, collaborate, and build something amazing together! 🚀
+- 👀 I’m interested in emerging technologies.
+- 🌱 I’m currently learning & expanding my skills while publishing my work here!
 
 <!---
 Maliha-Arif/Maliha-Arif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

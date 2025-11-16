@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maliha-Arif
-- 👀 I’m interested in emerging technologies.
+- 👀 I’m interested in Data and AI projects.
 - 🌱 I’m currently learning & expanding my skills while publishing my work here!
 
 <!---
